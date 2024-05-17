@@ -1,0 +1,46 @@
+body{
+    background-color:salmon;
+}
+
+h1{
+    font-family:serif;
+    color: aqua;
+    font-size: 28pt;
+    background-color: black;
+    text-align: center;
+}
+
+h2{
+    color:aquamarine;
+    font-size: 26pt;
+    text-shadow: 2px 2px 1px rgb(199, 115, 26);
+    text-align: center;
+}
+
+p{
+    color: rgb(39, 50, 55);
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+form{
+    background-color:darkkhaki;
+    text-align: center;
+    font-family: algerian;
+}
+
+
+.footer{
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 20pt;
+    font-style: italic;
+    transition: 300ms;
+}
+
+.footer:hover{
+    background-color:seagreen ;
+    transform: rotate(360deg);
+}
+
